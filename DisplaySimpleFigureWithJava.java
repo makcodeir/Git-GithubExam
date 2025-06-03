@@ -20,6 +20,7 @@ public class DisplaySimpleFigureWithJava {
         System.out.println("*************");
 
     }
+    fsdfsdfds
 }
 
 
